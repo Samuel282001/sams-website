@@ -4,13 +4,13 @@ body {
 }
 
 img {
-    height: 50%;
-    width: 50%;
+    height: 25%;
+    width: 25%;
 }
 
 button {
     position: absolute;
-    bottom: 25%;
-    right: 39%
+    bottom: 30%;
+    right: 44%
 }
 
